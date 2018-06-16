@@ -1,0 +1,19 @@
+{
+  "name": "slidershow",
+  "version": "1.0.0",
+  "description": "SliderShow Test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navire/Slidershow.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Erivan Souza",
+  "license": "ISC",
+  "homepage": "https://github.com/Navire/Slidershow#readme"
+}
