@@ -15,5 +15,8 @@
   ],
   "author": "Erivan Souza",
   "license": "ISC",
-  "homepage": "https://github.com/Navire/Slidershow#readme"
+  "homepage": "https://github.com/Navire/Slidershow#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
